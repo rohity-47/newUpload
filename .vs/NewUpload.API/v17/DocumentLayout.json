@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\RohitYadavMAQSoftwar\\Downloads\\newUpload\\NewUpload.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB77805-1737-4CA1-86EA-8468E7C8B40D}|NewUpload.API\\NewUpload.API.csproj|c:\\users\\rohityadavmaqsoftwar\\downloads\\newupload\\newupload.api\\newupload.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3AB77805-1737-4CA1-86EA-8468E7C8B40D}|NewUpload.API\\NewUpload.API.csproj|solutionrelative:newupload.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\RohitYadavMAQSoftwar\\Downloads\\newUpload\\NewUpload.API\\NewUpload.API\\Dockerfile",
+              "RelativeDocumentMoniker": "NewUpload.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\RohitYadavMAQSoftwar\\Downloads\\newUpload\\NewUpload.API\\NewUpload.API\\Dockerfile",
+              "RelativeToolTip": "NewUpload.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-08T08:47:56.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
